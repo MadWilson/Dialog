@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="actvity_brasilia" type="XML" />
+      <mapping pattern="activity_urugvai" type="XML" />
+      <mapping pattern="acrivity_chili" type="XML" />
+      <mapping pattern="activity_columbia" type="XML" />
     </extensionMap>
   </component>
 </application>
